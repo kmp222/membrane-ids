@@ -1,0 +1,9 @@
+*.exe
+todo.txt
+/x64
+/Release
+/Debug
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
